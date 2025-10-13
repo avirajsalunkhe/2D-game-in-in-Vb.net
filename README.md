@@ -63,7 +63,7 @@ Alternatively, run the compiled `.exe` file from `Output files`:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 **Aviraj Salunkhe**  
 📧 [avirajsalunkhe1@gmail.com](mailto:avirajsalunkhe1@gmail.com)  
 🔗 [GitHub Profile](https://github.com/avirajsalunkhe)
