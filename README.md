@@ -1,4 +1,4 @@
-# 🏎️ 2D Car Racing Game in VB.NET
+# 🏎️ 2D Car Racing Game in VB.NET via forms
 
 ## 📌 Overview
 The **2D Car Racing Game** is a desktop game developed using **Visual Basic .NET** and Windows Forms.  
